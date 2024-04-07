@@ -351,7 +351,7 @@ body {
 
 .project-image img {
   width: 488px;
-  height: 100px;
+  height: 200px;
   object-fit: cover;
 }
 
